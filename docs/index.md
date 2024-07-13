@@ -3,15 +3,15 @@
 layout: home
 
 hero:
-  name: "且听风吟"
-  text: "我的成长之路"
+  name: "风吟"
+  text: "前端"
   actions:
     - theme: brand
       text: 前端物语
-      link: /markdown-examples
+      link: /page
     - theme: alt
       text: 前端导航
-      link: /api-examples
+      link: /page
     - theme: brand
       text: 日常笔记
       link: /api-examples
